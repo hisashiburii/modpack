@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/consulars-origins.pw.toml"
+hash = "baaadcd0274099c5195cfdde4018a15cc95cfa021a96e98a18bd507dc6813529"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "77527597398ca5babe3351355ecaf673570cfefc0a435ea01326cf3de604242f"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "854f155ee5d35dfb3d9411a805a202f5da2315b69feca8c03ade06fb8a0da0a2"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "62ef6aa6f6f3b665d742aab88c84b3e821598153b7784d788e6154e0204361ea"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "1b755f717aa5548cf45c4ba17afc1af2c58f81fbec2ff761d918e7b95e80b4f2"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "4ec2035b74f68cc4ae96d4d95dd4d629cbac396d29183517c49a778e8b7c490a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "ed630161a04121bc00562c9a9ceab91d8c1d0bda43ab83d2a1256609f3db1701"
+metafile = true
