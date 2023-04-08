@@ -1,0 +1,13 @@
+name = "TeawieSMP"
+author = "8ball"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f7beec09065124f76131e1f2b645921426523e891a2e96c75524f044ca3debe7"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.3"
