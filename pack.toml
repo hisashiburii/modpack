@@ -1,12 +1,12 @@
-name = "TeawieSMP"
-author = "8ball"
+name = "TeawieSMP Modpack"
+author = "hisashiburi & getchoo"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f7beec09065124f76131e1f2b645921426523e891a2e96c75524f044ca3debe7"
+hash = "480f04be60594e6748d805adb57739aa44a3256de57bac6885627c928ffa2d28"
 
 [versions]
 fabric = "0.14.19"

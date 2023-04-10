@@ -1,0 +1,13 @@
+name = "Consulars' Origins"
+filename = "consularsorigins-1.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c463210840eb0dde951a16d9a173d2eeccfd6e03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4462065
+project-id = 498823
