@@ -36,6 +36,11 @@ hash = "6624daa134b6277f5cef94dc0eb56e77ba859e39070f553328fe73e4200cefd5"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "887cf12cad8fc44c1936db6cc6ce0bb15630f68299a5df6d90753f083106d6b2"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
 metafile = true
@@ -83,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4697f8eec2f5a8a6a3aca65ebad0cac1f6c6a29b4c0433e489d98985854731c5"
-metafile = true
-
-[[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "716e25c293e87166f93ee9b4c847314072e5dcbc14ce711b44ddaf68ea6d4c71"
 metafile = true
 
 [[files]]
