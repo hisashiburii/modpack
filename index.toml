@@ -31,6 +31,11 @@ hash = "cdf6e87246a0519d7e6351c4bf2ba4fae17a058ab8470c8d7bcfa52ac3a07e2b"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.pw.toml"
+hash = "9c43e72db4731ea9d5be3e0a207ca6c279d8c22d4aa6dad299b75d2d0aee975e"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "6624daa134b6277f5cef94dc0eb56e77ba859e39070f553328fe73e4200cefd5"
 metafile = true
