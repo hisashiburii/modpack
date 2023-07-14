@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "e6ad8855aee828b004b5be87f5cad12dbc9de346e7200add290b1b93a2a0ad5c"
+hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
 
 [[files]]
